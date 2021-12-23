@@ -5,11 +5,12 @@ MNIST persian image dataset includes a training set of 960 samples and a test se
 Please download dataset from [here](https://drive.google.com/drive/folders/1--LGkYnr8Biq9iD0B445YZNC7MOq7Fds?usp=sharing)
 
 ## Train
-to train the model please run the file `train.ipy`
+To train the model please run the file `train.ipy`
 
 ## Pretrained model
 Please download the weights from [here](https://drive.google.com/file/d/1CbouHYVoRUF8d_wC8i0D7SysXoA_DYpD/view?usp=sharing)  
 
-## inference
+## Inference
 to test the trained model, please run the following file:
+
 `python inference.py --img_path --model_path --device`
